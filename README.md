@@ -5,23 +5,23 @@ The Medical AI Chatbot is an advanced conversational assistant that leverages vi
 
 ## Features
 
-**Conversational AI:** Utilizes Groq API for intelligent and context-aware medical dialogue.
+1. **Conversational AI:** Utilizes Groq API for intelligent and context-aware medical dialogue.
 
-**Vision Capabilities:** Processes and analyzes medical images for insights.
+2. **Vision Capabilities:** Processes and analyzes medical images for insights.
 
-**Text-to-Speech:** Converts chatbot responses to speech using gTTS or Elevenlabs.
+3. **Text-to-Speech:** Converts chatbot responses to speech using gTTS or Elevenlabs.
 
-**User Interface:** Built using Gradio for an interactive and intuitive experience.
+4. **User Interface:** Built using Gradio for an interactive and intuitive experience.
 
 ## Tech Stack
 
-**Groq API:** For advanced language model capabilities.
+1. **Groq API:** For advanced language model capabilities.
 
-**gTTS/Elevenlabs:** For text-to-speech conversion.
+2. **gTTS/Elevenlabs:** For text-to-speech conversion.
 
-**Gradio:** For building the user interface.
+3. **Gradio:** For building the user interface.
 
-**Python:** Core programming language.
+4. **Python:** Core programming language.
 
 ## Prerequisites
 
