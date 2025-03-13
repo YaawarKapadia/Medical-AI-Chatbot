@@ -161,6 +161,10 @@ python gradio_app.py
 
 - Integrate patient record management.
 
+## License
+
+This project is licensed under the APACHE 2.0
+
 ## Contributors
 
 - Yaawar Kapadia
